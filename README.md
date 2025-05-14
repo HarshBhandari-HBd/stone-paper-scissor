@@ -15,6 +15,6 @@ Paper covers Rock (Paper wins).
 If both players choose the same shape, the game is a tie and usually replayed.
 <br>
 Stone Paper Scissors is often used as a quick decision-making tool because of its simplicity and fairness.
-<br>
-author : Harsh
+<br> 
+author : Harsh  Bhandari
 This is implemented using html,css and javascript
