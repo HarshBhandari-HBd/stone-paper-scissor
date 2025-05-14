@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let yourscore  = 0;
 let compscore = 0;
 
@@ -112,3 +113,5 @@ console.olog("dkjk");
 
 
 
+=======
+>>>>>>> 1767df1d3c579c95b25b1053bba9da612d76524b
